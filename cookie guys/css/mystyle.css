@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-color:#B2FFE5;	
+}
+#header {
+	align:center;
+    background-image:url("../images/banner.gif");
+    background-repeat: no-repeat;
+    background-position: right; 
+    color:#19332A;
+    font-weight:900;
+    font-size:30px;
+    text-align:left;
+    padding:5px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+                }
+ p{
+ font-family:"Comic Sans MS", cursive, sans-serif;
+ color:#003B66;
+ font-size:20px;
+ }              
+ #foot {
+
+    background-color:#19332A;
+    clear:both;    
+    padding:4px;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+     color:White;
+} 
+#div1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    
+		  
+}
